@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kanagawa_author">Katsushika Hokusai</string>
+    <string name="mona_lisa_author">L. da Vinci</string>
+    <string name="demon_author">Mikhail Vrubel</string>
+    <string name="vecherya_author">L. da Vinci</string>
+    <string name="persistence_author">Salvador Dali</string>
+    <string name="bears_author">Ivan Shishkin</string>
+    <string name="black_square_author">Kazimir Malevich</string>
+</resources>
